@@ -14,418 +14,306 @@
 
 /** Child theme style**/
 
+/****
+ ** Layout 1
+ ****/
 
 /****
-** Layout 1 
-****/
-
-
-/****
-** eclipse_vacancy 
-****/
-.vacancy-layout-1 #eclipse_vacancy 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** eclipse_vacancy
+ ****/
+.vacancy-layout-1 #eclipse_vacancy {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vacancy-meta 
-****/
-.vacancy-layout-1 #eclipse_vacancy .vacancy-meta 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vacancy-meta
+ ****/
+.vacancy-layout-1 #eclipse_vacancy .vacancy-meta {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vac-lbl 
-****/
-.vacancy-layout-1 #eclipse_vacancy .vacancy-meta .vac-lbl 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vac-lbl
+ ****/
+.vacancy-layout-1 #eclipse_vacancy .vacancy-meta .vac-lbl {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vac-val 
-****/
-.vacancy-layout-1 #eclipse_vacancy .vacancy-meta .vac-val 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vac-val
+ ****/
+.vacancy-layout-1 #eclipse_vacancy .vacancy-meta .vac-val {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vacancy-action 
-****/
-.vacancy-layout-1 #eclipse_vacancy .vacancy-action 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vacancy-action
+ ****/
+.vacancy-layout-1 #eclipse_vacancy .vacancy-action {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** h2 
-****/
-#eclipse_job_board .vacancy-layout-1 h2 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** h2
+ ****/
+#eclipse_job_board .vacancy-layout-1 h2 {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** flag 
-****/
-.eclipse-recruitment #eclipse_job_board h2.flag img 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** flag
+ ****/
+.eclipse-recruitment #eclipse_job_board h2.flag img {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vacancy-date 
-****/
-.eclipse-recruitment #eclipse_job_board .vacancy-date 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vacancy-date
+ ****/
+.eclipse-recruitment #eclipse_job_board .vacancy-date {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vacancy-reference 
-****/
-.eclipse-recruitment #eclipse_job_board .vacancy-reference 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vacancy-reference
+ ****/
+.eclipse-recruitment #eclipse_job_board .vacancy-reference {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
+/****
+ ** Layout 2
+ ****/
 
 /****
-** Layout 2 
-****/
-
-
-/****
-** eclipse_vacancy 
-****/
-.vacancy-layout-2 #eclipse_vacancy 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** eclipse_vacancy
+ ****/
+.vacancy-layout-2 #eclipse_vacancy {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vacancy-meta 
-****/
-.vacancy-layout-2 #eclipse_vacancy .vacancy-meta 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vacancy-meta
+ ****/
+.vacancy-layout-2 #eclipse_vacancy .vacancy-meta {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vac-lbl 
-****/
-.vacancy-layout-2 #eclipse_vacancy .vacancy-meta .vac-lbl 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vac-lbl
+ ****/
+.vacancy-layout-2 #eclipse_vacancy .vacancy-meta .vac-lbl {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vac-val 
-****/
-.vacancy-layout-2 #eclipse_vacancy .vacancy-meta .vac-val 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vac-val
+ ****/
+.vacancy-layout-2 #eclipse_vacancy .vacancy-meta .vac-val {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vacancy-action 
-****/
-.vacancy-layout-2 #eclipse_vacancy .vacancy-action 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vacancy-action
+ ****/
+.vacancy-layout-2 #eclipse_vacancy .vacancy-action {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** h2 
-****/
-#eclipse_job_board .vacancy-layout-2 h2 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** h2
+ ****/
+#eclipse_job_board .vacancy-layout-2 h2 {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** flag 
-****/
-.eclipse-recruitment #eclipse_job_board h2.flag img 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** flag
+ ****/
+.eclipse-recruitment #eclipse_job_board h2.flag img {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vacancy-date 
-****/
-.eclipse-recruitment #eclipse_job_board .vacancy-date 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vacancy-date
+ ****/
+.eclipse-recruitment #eclipse_job_board .vacancy-date {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vacancy-reference 
-****/
-.eclipse-recruitment #eclipse_job_board .vacancy-reference 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vacancy-reference
+ ****/
+.eclipse-recruitment #eclipse_job_board .vacancy-reference {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
+/****
+ ** Layout 3
+ ****/
 
 /****
-** Layout 3 
-****/
-
-
-/****
-** eclipse_vacancy 
-****/
-.vacancy-layout-3 #eclipse_vacancy 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** eclipse_vacancy
+ ****/
+.vacancy-layout-3 #eclipse_vacancy {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vacancy-meta 
-****/
-.vacancy-layout-3 #eclipse_vacancy .vacancy-meta 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vacancy-meta
+ ****/
+.vacancy-layout-3 #eclipse_vacancy .vacancy-meta {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vac-lbl 
-****/
-.vacancy-layout-3 #eclipse_vacancy .vacancy-meta .vac-lbl 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vac-lbl
+ ****/
+.vacancy-layout-3 #eclipse_vacancy .vacancy-meta .vac-lbl {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vac-val 
-****/
-.vacancy-layout-3 #eclipse_vacancy .vacancy-meta .vac-val 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vac-val
+ ****/
+.vacancy-layout-3 #eclipse_vacancy .vacancy-meta .vac-val {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vacancy-action 
-****/
-.vacancy-layout-3 #eclipse_vacancy .vacancy-action 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vacancy-action
+ ****/
+.vacancy-layout-3 #eclipse_vacancy .vacancy-action {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** h2 
-****/
-#eclipse_job_board .vacancy-layout-3 h2 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** h2
+ ****/
+#eclipse_job_board .vacancy-layout-3 h2 {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** flag 
-****/
-.eclipse-recruitment #eclipse_job_board h2.flag img 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** flag
+ ****/
+.eclipse-recruitment #eclipse_job_board h2.flag img {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vacancy-date 
-****/
-.eclipse-recruitment #eclipse_job_board .vacancy-date 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vacancy-date
+ ****/
+.eclipse-recruitment #eclipse_job_board .vacancy-date {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vacancy-reference 
-****/
-.eclipse-recruitment #eclipse_job_board .vacancy-reference 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vacancy-reference
+ ****/
+.eclipse-recruitment #eclipse_job_board .vacancy-reference {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
+/****
+ ** Layout 4
+ ****/
 
 /****
-** Layout 4 
-****/
-
-
-/****
-** eclipse_vacancy 
-****/
-.vacancy-layout-4 #eclipse_vacancy 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** eclipse_vacancy
+ ****/
+.vacancy-layout-4 #eclipse_vacancy {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vacancy-meta 
-****/
-.vacancy-layout-4 #eclipse_vacancy .vacancy-meta 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vacancy-meta
+ ****/
+.vacancy-layout-4 #eclipse_vacancy .vacancy-meta {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vac-lbl 
-****/
-.vacancy-layout-4 #eclipse_vacancy .vacancy-meta .vac-lbl 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vac-lbl
+ ****/
+.vacancy-layout-4 #eclipse_vacancy .vacancy-meta .vac-lbl {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vac-val 
-****/
-.vacancy-layout-4 #eclipse_vacancy .vacancy-meta .vac-val 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vac-val
+ ****/
+.vacancy-layout-4 #eclipse_vacancy .vacancy-meta .vac-val {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vacancy-action 
-****/
-.vacancy-layout-4 #eclipse_vacancy .vacancy-action 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vacancy-action
+ ****/
+.vacancy-layout-4 #eclipse_vacancy .vacancy-action {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** h2 
-****/
-#eclipse_job_board .vacancy-layout-4 h2 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** h2
+ ****/
+#eclipse_job_board .vacancy-layout-4 h2 {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** flag 
-****/
-.eclipse-recruitment #eclipse_job_board h2.flag img 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** flag
+ ****/
+.eclipse-recruitment #eclipse_job_board h2.flag img {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vacancy-date 
-****/
-.eclipse-recruitment #eclipse_job_board .vacancy-date 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vacancy-date
+ ****/
+.eclipse-recruitment #eclipse_job_board .vacancy-date {
+	border: 1px dashed #ccc;
+	color: red;
 }
 
-
 /****
-** vacancy-reference 
-****/
-.eclipse-recruitment #eclipse_job_board .vacancy-reference 
-{
-    border:1px dashed #ccc;
-    color:red;
-
+ ** vacancy-reference
+ ****/
+.eclipse-recruitment #eclipse_job_board .vacancy-reference {
+	border: 1px dashed #ccc;
+	color: red;
 }
